@@ -17,8 +17,8 @@ class RestaurantDetails extends StatelessWidget {
         child: Column(
           children: [
             Hero(
-                tag: restaurant.urlToImage,
-                child: Image.network(restaurant.urlToImage)),
+                tag: restaurant.urlImage,
+                child: Image.network(restaurant.urlImage)),
             Padding(
               padding: const EdgeInsets.all(10),
               child: Column(
@@ -26,22 +26,29 @@ class RestaurantDetails extends StatelessWidget {
                 children: [
                   Text(
                     restaurant.description,
-                    style: Theme.of(context).textTheme.titleMedium,
+                    textAlign: TextAlign.center,
+                    style: Theme.of(context).textTheme.titleLarge,
                   ),
                   const Divider(
                     color: Colors.grey,
                   ),
                   Text(
-                    'Date: ${restaurant.publishedAt}',
+                    'Date: ${restaurant.publishDate}',
                     style: Theme.of(context).textTheme.titleSmall,
+                  ),
+                  const Divider(
+                    color: Colors.grey,
                   ),
                   Text(
                     'author: ${restaurant.author}',
                     style: Theme.of(context).textTheme.titleSmall,
                   ),
+                  const Divider(
+                    color: Colors.grey,
+                  ),
                   Text(
                     restaurant.content,
-                    style: Theme.of(context).textTheme.titleSmall,
+                    style: Theme.of(context).textTheme.bodyMedium,
                   )
                 ],
               ),

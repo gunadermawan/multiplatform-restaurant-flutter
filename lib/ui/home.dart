@@ -42,7 +42,7 @@ class _HomeState extends State<Home> {
     return Scaffold(
       body: _listWidget[_bottomNavIndex],
       bottomNavigationBar: BottomNavigationBar(
-        selectedItemColor: Colors.grey,
+        selectedItemColor: Colors.blue,
         currentIndex: _bottomNavIndex,
         onTap: _onBottomNavigationTapped,
         items: _bottomNavIndexItems,

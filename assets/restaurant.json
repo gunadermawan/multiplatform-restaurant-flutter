@@ -3,7 +3,6 @@
     "author": "John Doe",
     "title": "Restoran Lezat",
     "description": "Nikmati hidangan terbaik di kota ini di Restoran Lezat.",
-    "url": "https://restoranlezat.com",
     "urlImage": "https://restaurant-api.dicoding.dev/images/medium/01",
     "publishDate": "2023-09-15",
     "content": "Restoran Lezat menawarkan beragam hidangan dari seluruh dunia. Apakah Anda ingin mencicipi masakan Italia yang lezat atau hidangan Thailand yang pedas, restoran kami memiliki semuanya. Para koki terampil kami menggunakan bahan segar untuk menciptakan hidangan yang lezat yang akan membuat Anda ingin kembali. Kunjungi kami hari ini dan nikmati perjalanan gastronomi yang tak terlupakan."
@@ -12,7 +11,6 @@
     "author": "Jane Smith",
     "title": "Sushi Enak",
     "description": "Temukan seni sushi di Sushi Enak.",
-    "url": "https://sushienak.com",
     "urlImage": "https://restaurant-api.dicoding.dev/images/medium/02",
     "publishDate": "2023-09-14",
     "content": "Di Sushi Enak, kami bangga menyajikan sushi terbaik di kota ini. Para koki sushi terampil kami membuat setiap roll dengan presisi dan hanya menggunakan seafood segar. Baik Anda seorang pecinta sushi atau mencobanya untuk pertama kalinya, Anda akan senang dengan rasa dan presentasinya. Bergabunglah dengan kami untuk pengalaman bersantap yang tak terlupakan dan nikmati cita rasa Jepang langsung di kota Anda."
@@ -21,7 +19,6 @@
     "author": "David Brown",
     "title": "Restoran India Surga Rasa",
     "description": "Jelajahi cita rasa India di Restoran India Surga Rasa.",
-    "url": "https://restoranindiasurgarasa.com",
     "urlImage": "https://restaurant-api.dicoding.dev/images/medium/03",
     "publishDate": "2023-09-13",
     "content": "Restoran India Surga Rasa adalah pintu gerbang Anda ke dunia kulinari India yang kaya. Menu kami menampilkan beragam pilihan kari, hidangan tandoori, dan hidangan penutup yang lezat. Setiap hidangan disiapkan dengan campuran rempah-rempah tradisional India yang akan membangkitkan selera Anda. Bergabunglah dengan kami untuk perjalanan kuliner yang tak terlupakan melalui beragam tradisi kuliner India."
@@ -30,7 +27,6 @@
     "author": "Alice Johnson",
     "title": "Kafe Angin Laut Mediterania",
     "description": "Nikmati cita rasa Mediterania di Kafe Angin Laut Mediterania.",
-    "url": "https://kafeanginlautmediterania.com",
     "urlImage": "https://restaurant-api.dicoding.dev/images/medium/04",
     "publishDate": "2023-09-12",
     "content": "Kafe Angin Laut Mediterania menawarkan rasa Mediterania langsung di tengah kota. Menu kami menampilkan beragam hidangan yang terinspirasi oleh wilayah pesisir Yunani, Italia, dan Spanyol. Dari seafood segar hingga hidangan pasta yang lezat, Anda akan menemukan sesuatu yang memuaskan selera Anda. Bergabunglah dengan kami untuk pengalaman bersantap yang santai dengan cita rasa yang mengantarkan Anda ke pantai Mediterania."
@@ -39,7 +35,6 @@
     "author": "Bob Wilson",
     "title": "Grill Fusion Nikmat",
     "description": "Menghadapi petualangan kuliner di Grill Fusion Nikmat.",
-    "url": "https://grillfusionnikmat.com",
     "urlImage": "https://restaurant-api.dicoding.dev/images/medium/05",
     "publishDate": "2023-09-11",
     "content": "Grill Fusion Nikmat adalah tempat di mana batasan kuliner diuji untuk menciptakan kombinasi rasa yang unik dan menarik. Para koki kami menggabungkan yang terbaik dari masakan Asia, Amerika, dan Eropa untuk menciptakan hidangan yang benar-benar satu-satunya. Baik Anda menginginkan burger yang lezat dengan sentuhan khas atau pizza yang terinspirasi oleh sushi, Anda akan menemukannya di sini. Bergabunglah dengan kami untuk pengalaman bersantap yang pasti akan memanjakan selera Anda."
@@ -48,7 +43,6 @@
     "author": "Eva Williams",
     "title": "Restoran Khas Prancis",
     "description": "Nikmati kemewahan kuliner Prancis di Restoran Khas Prancis.",
-    "url": "https://restorankhasprancis.com",
     "urlImage": "https://restaurant-api.dicoding.dev/images/medium/06",
     "publishDate": "2023-09-10",
     "content": "Restoran Khas Prancis menghadirkan Anda ke dunia kemewahan kuliner Prancis. Menu kami menampilkan hidangan klasik seperti escargot, coq au vin, dan crème brûlée. Setiap hidangan disiapkan dengan hati-hati dan citarasa yang otentik. Bergabunglah dengan kami untuk pengalaman bersantap yang memanjakan selera Anda dan nikmati kelezatan kuliner Prancis."
@@ -57,7 +51,6 @@
     "author": "Grace Davis",
     "title": "Warung Makanan Jalanan Asia",
     "description": "Jelajahi rasa Asia di Warung Makanan Jalanan Asia.",
-    "url": "https://warungmakananjalananasia.com",
     "urlImage": "https://restaurant-api.dicoding.dev/images/medium/07",
     "publishDate": "2023-09-09",
     "content": "Warung Makanan Jalanan Asia adalah tempat yang tepat untuk mencicipi berbagai hidangan jalanan yang lezat dari seluruh Asia. Dari mie goreng Indonesia hingga dimsum Tiongkok, kami memiliki beragam pilihan yang akan memanjakan lidah Anda. Bergabunglah dengan kami untuk petualangan kuliner jalanan yang tak terlupakan dan rasakan cita rasa Asia yang autentik."
@@ -66,7 +59,6 @@
     "author": "Harry Brown",
     "title": "Rumah Makan Steak Terbaik",
     "description": "Nikmati sajian steak terbaik di Rumah Makan Steak Terbaik.",
-    "url": "https://rumahmakansteakterbaik.com",
     "urlImage": "https://restaurant-api.dicoding.dev/images/medium/08",
     "publishDate": "2023-09-08",
     "content": "Rumah Makan Steak Terbaik menawarkan pengalaman bersantap yang istimewa dengan sajian steak yang lezat. Dari filet mignon yang lembut hingga ribeye yang berair, kami memiliki berbagai pilihan steak yang disajikan sesuai keinginan Anda. Semua steak kami diolah dengan sempurna dan disajikan dengan saus yang lezat. Bergabunglah dengan kami untuk pengalaman bersantap yang tak terlupakan bersama sajian steak yang istimewa."
@@ -75,7 +67,6 @@
     "author": "Isabella Taylor",
     "title": "Rumah Makan Vegetarian",
     "description": "Jelajahi kelezatan vegetarian di Rumah Makan Vegetarian.",
-    "url": "https://rumahmakanvegetarian.com",
     "urlImage": "https://restaurant-api.dicoding.dev/images/medium/09",
     "publishDate": "2023-09-07",
     "content": "Rumah Makan Vegetarian adalah surga bagi pecinta makanan vegetarian. Menu kami menawarkan beragam hidangan vegetarian yang lezat, mulai dari hidangan sayuran segar hingga hidangan khas dari berbagai belahan dunia. Kami yakin Anda akan menemukan sesuatu yang Anda sukai di sini. Bergabunglah dengan kami untuk pengalaman bersantap yang sehat dan nikmat."
@@ -84,7 +75,6 @@
     "author": "Oliver Lee",
     "title": "Rumah Makan Khas Spanyol",
     "description": "Rasakan cita rasa Spanyol di Rumah Makan Khas Spanyol.",
-    "url": "https://rumahmakankhasspanyol.com",
     "urlImage": "https://restaurant-api.dicoding.dev/images/medium/10",
     "publishDate": "2023-09-06",
     "content": "Rumah Makan Khas Spanyol membawa Anda ke dunia kuliner Spanyol yang berwarna-warni. Menu kami menampilkan hidangan klasik seperti paella, tapas, dan churros. Semua hidangan disiapkan dengan bahan-bahan yang otentik dan citarasa yang menggugah selera. Bergabunglah dengan kami untuk pengalaman bersantap yang memanjakan selera Anda dan nikmati cita rasa Spanyol yang autentik."
@@ -93,7 +83,6 @@
     "author": "Sophia Martinez",
     "title": "Restoran Seafood Pantai",
     "description": "Nikmati hidangan seafood segar di Restoran Seafood Pantai.",
-    "url": "https://restoranseafoodpantai.com",
     "urlImage": "https://restaurant-api.dicoding.dev/images/medium/11",
     "publishDate": "2023-09-05",
     "content": "Restoran Seafood Pantai adalah tempat terbaik untuk mencicipi seafood segar di tepi pantai. Menu kami menampilkan beragam hidangan seafood, mulai dari udang bakar hingga lobster mentah. Semua seafood kami disajikan dengan saus yang lezat dan disiapkan sesuai pesanan. Bergabunglah dengan kami untuk pengalaman bersantap yang santai dengan pemandangan laut yang menakjubkan."
@@ -102,7 +91,6 @@
     "author": "William Johnson",
     "title": "Rumah Makan BBQ Southern",
     "description": "Rasakan BBQ khas Selatan di Rumah Makan BBQ Southern.",
-    "url": "https://rumahmakanbbqsouthern.com",
     "urlImage": "https://restaurant-api.dicoding.dev/images/medium/12",
     "publishDate": "2023-09-04",
     "content": "Rumah Makan BBQ Southern adalah tempat untuk menikmati sajian BBQ yang autentik dari kawasan Selatan Amerika. Menu kami menampilkan daging panggang, daging sapi panggang, dan saus BBQ khas. Semua daging kami diolah dengan perlahan dan disajikan dengan saus yang lezat. Bergabunglah dengan kami untuk pengalaman bersantap yang penuh rasa."
@@ -111,7 +99,6 @@
     "author": "Liam Anderson",
     "title": "Kafe Kopi Kreatif",
     "description": "Temukan kreasi kopi yang unik di Kafe Kopi Kreatif.",
-    "url": "https://kafekopikreatif.com",
     "urlImage": "https://restaurant-api.dicoding.dev/images/medium/13",
     "publishDate": "2023-09-03",
     "content": "Kafe Kopi Kreatif adalah tempat di mana kopi menjadi seni. Menu kami menampilkan beragam kreasi kopi yang unik, mulai dari cappuccino dengan latte art yang indah hingga cold brew yang menyegarkan. Semua kopi kami dibuat dengan biji kopi berkualitas tinggi. Bergabunglah dengan kami untuk petualangan kopi yang tak terlupakan dan nikmati cita rasa kopi yang istimewa."
@@ -120,7 +107,6 @@
     "author": "Ava Wilson",
     "title": "Rumah Makan Hidangan Keluarga",
     "description": "Nikmati hidangan keluarga di Rumah Makan Hidangan Keluarga.",
-    "url": "https://rumahmakanhidangankeluarga.com",
     "urlImage": "https://restaurant-api.dicoding.dev/images/medium/14",
     "publishDate": "2023-09-02",
     "content": "Rumah Makan Hidangan Keluarga adalah tempat yang sempurna untuk menikmati hidangan yang hangat dan lezat seperti yang di rumah. Menu kami menampilkan hidangan klasik seperti lasagna, ayam panggang, dan pai buah. Semua hidangan kami disiapkan dengan cinta dan kesan. Bergabunglah dengan kami untuk pengalaman bersantap yang mengingatkan Anda akan makanan keluarga yang lezat."
@@ -129,7 +115,6 @@
     "author": "Mia Harris",
     "title": "Rumah Makan Ramen Jepang",
     "description": "Temukan rasa autentik Ramen Jepang di Rumah Makan Ramen Jepang.",
-    "url": "https://rumahmakanramenjepang.com",
     "urlImage": "https://restaurant-api.dicoding.dev/images/medium/15",
     "publishDate": "2023-09-01",
     "content": "Rumah Makan Ramen Jepang menghadirkan Anda ke dunia ramen Jepang yang otentik. Menu kami menampilkan berbagai pilihan ramen, mulai dari ramen ayam hingga ramen miso. Semua ramen kami disiapkan dengan kaldu yang kaya dan mie yang kenyal. Bergabunglah dengan kami untuk pengalaman bersantap yang memuaskan dan nikmati cita rasa ramen Jepang yang autentik."

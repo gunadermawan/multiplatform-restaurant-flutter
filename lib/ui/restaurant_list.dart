@@ -7,15 +7,18 @@ import 'package:restaurant/widget/platform_widget.dart';
 class RestaurantListPage extends StatelessWidget {
   const RestaurantListPage({super.key});
 
-  Widget _buildList(BuildContext buildContext) {
+  Widget _buildList(BuildContext context) {
     return FutureBuilder<String>(
-        future: DefaultAssetBundle.of(buildContext)
-            .loadString('assets/restaurant.json'),
+        future:
+            DefaultAssetBundle.of(context).loadString('assets/restaurant.json'),
         builder: (context, snapshot) {
           final List<Restaurant> restaurant = parseRestaurant(snapshot.data);
-          return ListView.builder(itemBuilder: (context, index) {
-            return _buildRestaurantItem(context, restaurant[index]);
-          });
+          return ListView.builder(
+            itemBuilder: (context, index) {
+              return _buildRestaurantItem(context, restaurant[index]);
+            },
+            itemCount: restaurant.length,
+          );
         });
   }
 
@@ -26,14 +29,14 @@ class RestaurantListPage extends StatelessWidget {
 
   Widget _buildRestaurantItem(BuildContext context, Restaurant restaurant) {
     return Material(
-      color: Colors.blue,
+      color: Colors.white,
       child: ListTile(
         contentPadding:
             const EdgeInsets.symmetric(horizontal: 16.0, vertical: 8.0),
         leading: Hero(
-          tag: restaurant.urlToImage,
+          tag: restaurant.urlImage,
           child: Image.network(
-            restaurant.urlToImage,
+            restaurant.urlImage,
             width: 100,
           ),
         ),

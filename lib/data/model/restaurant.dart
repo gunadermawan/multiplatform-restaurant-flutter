@@ -4,18 +4,16 @@ class Restaurant {
   final String author;
   final String title;
   final String description;
-  final String url;
-  final String urlToImage;
-  final String publishedAt;
+  final String urlImage;
+  final String publishDate;
   final String content;
 
   Restaurant({
     required this.author,
     required this.title,
     required this.description,
-    required this.url,
-    required this.urlToImage,
-    required this.publishedAt,
+    required this.urlImage,
+    required this.publishDate,
     required this.content,
   });
 
@@ -23,9 +21,8 @@ class Restaurant {
       author: restaurant['author'],
       title: restaurant['title'],
       description: restaurant['description'],
-      url: restaurant['url'],
-      urlToImage: restaurant['urlToImage'],
-      publishedAt: restaurant['publishedAt'],
+      urlImage: restaurant['urlImage'],
+      publishDate: restaurant['publishDate'],
       content: restaurant['content']);
 }
 
