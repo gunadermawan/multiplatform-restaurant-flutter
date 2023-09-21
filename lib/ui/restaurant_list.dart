@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:restaurant/data/model/restaurant.dart';
 import 'package:restaurant/ui/restaurant_details.dart';
 import 'package:restaurant/widget/platform_widget.dart';
+import 'package:transparent_image/transparent_image.dart';
 
 class RestaurantListPage extends StatelessWidget {
   const RestaurantListPage({super.key});
@@ -35,8 +36,9 @@ class RestaurantListPage extends StatelessWidget {
             const EdgeInsets.symmetric(horizontal: 16.0, vertical: 8.0),
         leading: Hero(
           tag: restaurant.pictureId,
-          child: Image.network(
-            restaurant.pictureId,
+          child: FadeInImage.memoryNetwork(
+            placeholder: kTransparentImage,
+            image: restaurant.pictureId,
             width: 100,
           ),
         ),
