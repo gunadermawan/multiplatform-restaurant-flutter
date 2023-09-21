@@ -34,14 +34,14 @@ class RestaurantListPage extends StatelessWidget {
         contentPadding:
             const EdgeInsets.symmetric(horizontal: 16.0, vertical: 8.0),
         leading: Hero(
-          tag: restaurant.urlImage,
+          tag: restaurant.pictureId,
           child: Image.network(
-            restaurant.urlImage,
+            restaurant.pictureId,
             width: 100,
           ),
         ),
-        title: Text(restaurant.title),
-        subtitle: Text(restaurant.author),
+        title: Text(restaurant.name),
+        subtitle: Text(restaurant.city),
         onTap: () {
           Navigator.pushNamed(context, RestaurantDetails.routeName,
               arguments: restaurant);

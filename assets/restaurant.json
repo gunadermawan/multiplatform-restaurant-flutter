@@ -1,122 +1,711 @@
-[
-  {
-    "author": "John Doe",
-    "title": "Restoran Lezat",
-    "description": "Nikmati hidangan terbaik di kota ini di Restoran Lezat.",
-    "urlImage": "https://restaurant-api.dicoding.dev/images/medium/01",
-    "publishDate": "2023-09-15",
-    "content": "Restoran Lezat menawarkan beragam hidangan dari seluruh dunia. Apakah Anda ingin mencicipi masakan Italia yang lezat atau hidangan Thailand yang pedas, restoran kami memiliki semuanya. Para koki terampil kami menggunakan bahan segar untuk menciptakan hidangan yang lezat yang akan membuat Anda ingin kembali. Kunjungi kami hari ini dan nikmati perjalanan gastronomi yang tak terlupakan."
-  },
-  {
-    "author": "Jane Smith",
-    "title": "Sushi Enak",
-    "description": "Temukan seni sushi di Sushi Enak.",
-    "urlImage": "https://restaurant-api.dicoding.dev/images/medium/02",
-    "publishDate": "2023-09-14",
-    "content": "Di Sushi Enak, kami bangga menyajikan sushi terbaik di kota ini. Para koki sushi terampil kami membuat setiap roll dengan presisi dan hanya menggunakan seafood segar. Baik Anda seorang pecinta sushi atau mencobanya untuk pertama kalinya, Anda akan senang dengan rasa dan presentasinya. Bergabunglah dengan kami untuk pengalaman bersantap yang tak terlupakan dan nikmati cita rasa Jepang langsung di kota Anda."
-  },
-  {
-    "author": "David Brown",
-    "title": "Restoran India Surga Rasa",
-    "description": "Jelajahi cita rasa India di Restoran India Surga Rasa.",
-    "urlImage": "https://restaurant-api.dicoding.dev/images/medium/03",
-    "publishDate": "2023-09-13",
-    "content": "Restoran India Surga Rasa adalah pintu gerbang Anda ke dunia kulinari India yang kaya. Menu kami menampilkan beragam pilihan kari, hidangan tandoori, dan hidangan penutup yang lezat. Setiap hidangan disiapkan dengan campuran rempah-rempah tradisional India yang akan membangkitkan selera Anda. Bergabunglah dengan kami untuk perjalanan kuliner yang tak terlupakan melalui beragam tradisi kuliner India."
-  },
-  {
-    "author": "Alice Johnson",
-    "title": "Kafe Angin Laut Mediterania",
-    "description": "Nikmati cita rasa Mediterania di Kafe Angin Laut Mediterania.",
-    "urlImage": "https://restaurant-api.dicoding.dev/images/medium/04",
-    "publishDate": "2023-09-12",
-    "content": "Kafe Angin Laut Mediterania menawarkan rasa Mediterania langsung di tengah kota. Menu kami menampilkan beragam hidangan yang terinspirasi oleh wilayah pesisir Yunani, Italia, dan Spanyol. Dari seafood segar hingga hidangan pasta yang lezat, Anda akan menemukan sesuatu yang memuaskan selera Anda. Bergabunglah dengan kami untuk pengalaman bersantap yang santai dengan cita rasa yang mengantarkan Anda ke pantai Mediterania."
-  },
-  {
-    "author": "Bob Wilson",
-    "title": "Grill Fusion Nikmat",
-    "description": "Menghadapi petualangan kuliner di Grill Fusion Nikmat.",
-    "urlImage": "https://restaurant-api.dicoding.dev/images/medium/05",
-    "publishDate": "2023-09-11",
-    "content": "Grill Fusion Nikmat adalah tempat di mana batasan kuliner diuji untuk menciptakan kombinasi rasa yang unik dan menarik. Para koki kami menggabungkan yang terbaik dari masakan Asia, Amerika, dan Eropa untuk menciptakan hidangan yang benar-benar satu-satunya. Baik Anda menginginkan burger yang lezat dengan sentuhan khas atau pizza yang terinspirasi oleh sushi, Anda akan menemukannya di sini. Bergabunglah dengan kami untuk pengalaman bersantap yang pasti akan memanjakan selera Anda."
-  },
-  {
-    "author": "Eva Williams",
-    "title": "Restoran Khas Prancis",
-    "description": "Nikmati kemewahan kuliner Prancis di Restoran Khas Prancis.",
-    "urlImage": "https://restaurant-api.dicoding.dev/images/medium/06",
-    "publishDate": "2023-09-10",
-    "content": "Restoran Khas Prancis menghadirkan Anda ke dunia kemewahan kuliner Prancis. Menu kami menampilkan hidangan klasik seperti escargot, coq au vin, dan crème brûlée. Setiap hidangan disiapkan dengan hati-hati dan citarasa yang otentik. Bergabunglah dengan kami untuk pengalaman bersantap yang memanjakan selera Anda dan nikmati kelezatan kuliner Prancis."
-  },
-  {
-    "author": "Grace Davis",
-    "title": "Warung Makanan Jalanan Asia",
-    "description": "Jelajahi rasa Asia di Warung Makanan Jalanan Asia.",
-    "urlImage": "https://restaurant-api.dicoding.dev/images/medium/07",
-    "publishDate": "2023-09-09",
-    "content": "Warung Makanan Jalanan Asia adalah tempat yang tepat untuk mencicipi berbagai hidangan jalanan yang lezat dari seluruh Asia. Dari mie goreng Indonesia hingga dimsum Tiongkok, kami memiliki beragam pilihan yang akan memanjakan lidah Anda. Bergabunglah dengan kami untuk petualangan kuliner jalanan yang tak terlupakan dan rasakan cita rasa Asia yang autentik."
-  },
-  {
-    "author": "Harry Brown",
-    "title": "Rumah Makan Steak Terbaik",
-    "description": "Nikmati sajian steak terbaik di Rumah Makan Steak Terbaik.",
-    "urlImage": "https://restaurant-api.dicoding.dev/images/medium/08",
-    "publishDate": "2023-09-08",
-    "content": "Rumah Makan Steak Terbaik menawarkan pengalaman bersantap yang istimewa dengan sajian steak yang lezat. Dari filet mignon yang lembut hingga ribeye yang berair, kami memiliki berbagai pilihan steak yang disajikan sesuai keinginan Anda. Semua steak kami diolah dengan sempurna dan disajikan dengan saus yang lezat. Bergabunglah dengan kami untuk pengalaman bersantap yang tak terlupakan bersama sajian steak yang istimewa."
-  },
-  {
-    "author": "Isabella Taylor",
-    "title": "Rumah Makan Vegetarian",
-    "description": "Jelajahi kelezatan vegetarian di Rumah Makan Vegetarian.",
-    "urlImage": "https://restaurant-api.dicoding.dev/images/medium/09",
-    "publishDate": "2023-09-07",
-    "content": "Rumah Makan Vegetarian adalah surga bagi pecinta makanan vegetarian. Menu kami menawarkan beragam hidangan vegetarian yang lezat, mulai dari hidangan sayuran segar hingga hidangan khas dari berbagai belahan dunia. Kami yakin Anda akan menemukan sesuatu yang Anda sukai di sini. Bergabunglah dengan kami untuk pengalaman bersantap yang sehat dan nikmat."
-  },
-  {
-    "author": "Oliver Lee",
-    "title": "Rumah Makan Khas Spanyol",
-    "description": "Rasakan cita rasa Spanyol di Rumah Makan Khas Spanyol.",
-    "urlImage": "https://restaurant-api.dicoding.dev/images/medium/10",
-    "publishDate": "2023-09-06",
-    "content": "Rumah Makan Khas Spanyol membawa Anda ke dunia kuliner Spanyol yang berwarna-warni. Menu kami menampilkan hidangan klasik seperti paella, tapas, dan churros. Semua hidangan disiapkan dengan bahan-bahan yang otentik dan citarasa yang menggugah selera. Bergabunglah dengan kami untuk pengalaman bersantap yang memanjakan selera Anda dan nikmati cita rasa Spanyol yang autentik."
-  },
-  {
-    "author": "Sophia Martinez",
-    "title": "Restoran Seafood Pantai",
-    "description": "Nikmati hidangan seafood segar di Restoran Seafood Pantai.",
-    "urlImage": "https://restaurant-api.dicoding.dev/images/medium/11",
-    "publishDate": "2023-09-05",
-    "content": "Restoran Seafood Pantai adalah tempat terbaik untuk mencicipi seafood segar di tepi pantai. Menu kami menampilkan beragam hidangan seafood, mulai dari udang bakar hingga lobster mentah. Semua seafood kami disajikan dengan saus yang lezat dan disiapkan sesuai pesanan. Bergabunglah dengan kami untuk pengalaman bersantap yang santai dengan pemandangan laut yang menakjubkan."
-  },
-  {
-    "author": "William Johnson",
-    "title": "Rumah Makan BBQ Southern",
-    "description": "Rasakan BBQ khas Selatan di Rumah Makan BBQ Southern.",
-    "urlImage": "https://restaurant-api.dicoding.dev/images/medium/12",
-    "publishDate": "2023-09-04",
-    "content": "Rumah Makan BBQ Southern adalah tempat untuk menikmati sajian BBQ yang autentik dari kawasan Selatan Amerika. Menu kami menampilkan daging panggang, daging sapi panggang, dan saus BBQ khas. Semua daging kami diolah dengan perlahan dan disajikan dengan saus yang lezat. Bergabunglah dengan kami untuk pengalaman bersantap yang penuh rasa."
-  },
-  {
-    "author": "Liam Anderson",
-    "title": "Kafe Kopi Kreatif",
-    "description": "Temukan kreasi kopi yang unik di Kafe Kopi Kreatif.",
-    "urlImage": "https://restaurant-api.dicoding.dev/images/medium/13",
-    "publishDate": "2023-09-03",
-    "content": "Kafe Kopi Kreatif adalah tempat di mana kopi menjadi seni. Menu kami menampilkan beragam kreasi kopi yang unik, mulai dari cappuccino dengan latte art yang indah hingga cold brew yang menyegarkan. Semua kopi kami dibuat dengan biji kopi berkualitas tinggi. Bergabunglah dengan kami untuk petualangan kopi yang tak terlupakan dan nikmati cita rasa kopi yang istimewa."
-  },
-  {
-    "author": "Ava Wilson",
-    "title": "Rumah Makan Hidangan Keluarga",
-    "description": "Nikmati hidangan keluarga di Rumah Makan Hidangan Keluarga.",
-    "urlImage": "https://restaurant-api.dicoding.dev/images/medium/14",
-    "publishDate": "2023-09-02",
-    "content": "Rumah Makan Hidangan Keluarga adalah tempat yang sempurna untuk menikmati hidangan yang hangat dan lezat seperti yang di rumah. Menu kami menampilkan hidangan klasik seperti lasagna, ayam panggang, dan pai buah. Semua hidangan kami disiapkan dengan cinta dan kesan. Bergabunglah dengan kami untuk pengalaman bersantap yang mengingatkan Anda akan makanan keluarga yang lezat."
-  },
-  {
-    "author": "Mia Harris",
-    "title": "Rumah Makan Ramen Jepang",
-    "description": "Temukan rasa autentik Ramen Jepang di Rumah Makan Ramen Jepang.",
-    "urlImage": "https://restaurant-api.dicoding.dev/images/medium/15",
-    "publishDate": "2023-09-01",
-    "content": "Rumah Makan Ramen Jepang menghadirkan Anda ke dunia ramen Jepang yang otentik. Menu kami menampilkan berbagai pilihan ramen, mulai dari ramen ayam hingga ramen miso. Semua ramen kami disiapkan dengan kaldu yang kaya dan mie yang kenyal. Bergabunglah dengan kami untuk pengalaman bersantap yang memuaskan dan nikmati cita rasa ramen Jepang yang autentik."
-  }
-]
+{
+  "restaurants": [
+    {
+      "id": "rqdv5juczeskfw1e867",
+      "name": "Melting Pot",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet.",
+      "pictureId": "https://restaurant-api.dicoding.dev/images/medium/14",
+      "city": "Medan",
+      "rating": 4.2,
+      "menus": {
+        "foods": [
+          {
+            "name": "Paket rosemary"
+          },
+          {
+            "name": "Toastie salmon"
+          },
+          {
+            "name": "Bebek crepes"
+          },
+          {
+            "name": "Salad lengkeng"
+          }
+        ],
+        "drinks": [
+          {
+            "name": "Es krim"
+          },
+          {
+            "name": "Sirup"
+          },
+          {
+            "name": "Jus apel"
+          },
+          {
+            "name": "Jus jeruk"
+          },
+          {
+            "name": "Coklat panas"
+          },
+          {
+            "name": "Air"
+          },
+          {
+            "name": "Es kopi"
+          },
+          {
+            "name": "Jus alpukat"
+          },
+          {
+            "name": "Jus mangga"
+          },
+          {
+            "name": "Teh manis"
+          },
+          {
+            "name": "Kopi espresso"
+          },
+          {
+            "name": "Minuman soda"
+          },
+          {
+            "name": "Jus tomat"
+          }
+        ]
+      }
+    },
+    {
+      "id": "s1knt6za9kkfw1e867",
+      "name": "Kafe Kita",
+      "description": "Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc,",
+      "pictureId": "https://restaurant-api.dicoding.dev/images/medium/25",
+      "city": "Gorontalo",
+      "rating": 4,
+      "menus": {
+        "foods": [
+          {
+            "name": "Kari kacang dan telur"
+          },
+          {
+            "name": "Ikan teri dan roti"
+          },
+          {
+            "name": "roket penne"
+          },
+          {
+            "name": "Salad lengkeng"
+          },
+          {
+            "name": "Tumis leek"
+          },
+          {
+            "name": "Salad yuzu"
+          },
+          {
+            "name": "Sosis squash dan mint"
+          }
+        ],
+        "drinks": [
+          {
+            "name": "Jus tomat"
+          },
+          {
+            "name": "Minuman soda"
+          },
+          {
+            "name": "Jus apel"
+          },
+          {
+            "name": "Jus mangga"
+          },
+          {
+            "name": "Es krim"
+          },
+          {
+            "name": "Kopi espresso"
+          },
+          {
+            "name": "Jus alpukat"
+          },
+          {
+            "name": "Coklat panas"
+          },
+          {
+            "name": "Es kopi"
+          },
+          {
+            "name": "Teh manis"
+          },
+          {
+            "name": "Sirup"
+          },
+          {
+            "name": "Jus jeruk"
+          }
+        ]
+      }
+    },
+    {
+      "id": "w9pga3s2tubkfw1e867",
+      "name": "Bring Your Phone Cafe",
+      "description": "Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc,",
+      "pictureId": "https://restaurant-api.dicoding.dev/images/medium/03",
+      "city": "Surabaya",
+      "rating": 4.2,
+      "menus": {
+        "foods": [
+          {
+            "name": "Salad lengkeng"
+          },
+          {
+            "name": "Sosis squash dan mint"
+          },
+          {
+            "name": "Toastie salmon"
+          },
+          {
+            "name": "Salad yuzu"
+          },
+          {
+            "name": "Matzo farfel"
+          },
+          {
+            "name": "Kari terong"
+          },
+          {
+            "name": "roket penne"
+          },
+          {
+            "name": "Napolitana"
+          },
+          {
+            "name": "Daging Sapi"
+          },
+          {
+            "name": "Bebek crepes"
+          },
+          {
+            "name": "Sup Kohlrabi"
+          },
+          {
+            "name": "Ikan teri dan roti"
+          },
+          {
+            "name": "Tumis leek"
+          }
+        ],
+        "drinks": [
+          {
+            "name": "Kopi espresso"
+          },
+          {
+            "name": "Coklat panas"
+          },
+          {
+            "name": "Jus jeruk"
+          },
+          {
+            "name": "Jus apel"
+          },
+          {
+            "name": "Minuman soda"
+          },
+          {
+            "name": "Air"
+          },
+          {
+            "name": "Es kopi"
+          }
+        ]
+      }
+    },
+    {
+      "id": "uewq1zg2zlskfw1e867",
+      "name": "Kafein",
+      "description": "Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc,",
+      "pictureId": "https://restaurant-api.dicoding.dev/images/medium/15",
+      "city": "Aceh",
+      "rating": 4.6,
+      "menus": {
+        "foods": [
+          {
+            "name": "Salad lengkeng"
+          },
+          {
+            "name": "Kari terong"
+          },
+          {
+            "name": "Sosis squash dan mint"
+          },
+          {
+            "name": "Napolitana"
+          },
+          {
+            "name": "Salad yuzu"
+          },
+          {
+            "name": "Tumis leek"
+          },
+          {
+            "name": "Ikan teri dan roti"
+          },
+          {
+            "name": "Kari kacang dan telur"
+          },
+          {
+            "name": "Toastie salmon"
+          },
+          {
+            "name": "Bebek crepes"
+          },
+          {
+            "name": "Paket rosemary"
+          },
+          {
+            "name": "Sup Kohlrabi"
+          },
+          {
+            "name": "roket penne"
+          }
+        ],
+        "drinks": [
+          {
+            "name": "Minuman soda"
+          },
+          {
+            "name": "Es teh"
+          },
+          {
+            "name": "Jus tomat"
+          },
+          {
+            "name": "Coklat panas"
+          },
+          {
+            "name": "Jus jeruk"
+          },
+          {
+            "name": "Air"
+          },
+          {
+            "name": "Kopi espresso"
+          },
+          {
+            "name": "Es kopi"
+          },
+          {
+            "name": "Sirup"
+          },
+          {
+            "name": "Jus alpukat"
+          },
+          {
+            "name": "Jus mangga"
+          },
+          {
+            "name": "Jus apel"
+          },
+          {
+            "name": "Es krim"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ygewwl55ktckfw1e867",
+      "name": "Istana Emas",
+      "description": "Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc,",
+      "pictureId": "https://restaurant-api.dicoding.dev/images/medium/05",
+      "city": "Balikpapan",
+      "rating": 4.5,
+      "menus": {
+        "foods": [
+          {
+            "name": "Daging Sapi"
+          },
+          {
+            "name": "Bebek crepes"
+          },
+          {
+            "name": "Toastie salmon"
+          },
+          {
+            "name": "Kari terong"
+          },
+          {
+            "name": "Paket rosemary"
+          },
+          {
+            "name": "Salad lengkeng"
+          }
+        ],
+        "drinks": [
+          {
+            "name": "Sirup"
+          },
+          {
+            "name": "Jus mangga"
+          },
+          {
+            "name": "Es teh"
+          },
+          {
+            "name": "Jus jeruk"
+          },
+          {
+            "name": "Teh manis"
+          },
+          {
+            "name": "Kopi espresso"
+          },
+          {
+            "name": "Es kopi"
+          },
+          {
+            "name": "Minuman soda"
+          },
+          {
+            "name": "Jus alpukat"
+          },
+          {
+            "name": "Jus tomat"
+          },
+          {
+            "name": "Es krim"
+          },
+          {
+            "name": "Coklat panas"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fnfn8mytkpmkfw1e867",
+      "name": "Makan mudah",
+      "description": "But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure.",
+      "pictureId": "https://restaurant-api.dicoding.dev/images/medium/22",
+      "city": "Medan",
+      "rating": 3.7,
+      "menus": {
+        "foods": [
+          {
+            "name": "Kari kacang dan telur"
+          },
+          {
+            "name": "Toastie salmon"
+          },
+          {
+            "name": "Matzo farfel"
+          },
+          {
+            "name": "Napolitana"
+          },
+          {
+            "name": "Salad yuzu"
+          },
+          {
+            "name": "Sosis squash dan mint"
+          },
+          {
+            "name": "Daging Sapi"
+          }
+        ],
+        "drinks": [
+          {
+            "name": "Minuman soda"
+          },
+          {
+            "name": "Jus apel"
+          },
+          {
+            "name": "Air"
+          },
+          {
+            "name": "Jus jeruk"
+          },
+          {
+            "name": "Es krim"
+          },
+          {
+            "name": "Es teh"
+          },
+          {
+            "name": "Jus tomat"
+          },
+          {
+            "name": "Coklat panas"
+          }
+        ]
+      }
+    },
+    {
+      "id": "dwg2wt3is19kfw1e867",
+      "name": "Drinky Squash",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet.",
+      "pictureId": "https://restaurant-api.dicoding.dev/images/medium/18",
+      "city": "Surabaya",
+      "rating": 3.9,
+      "menus": {
+        "foods": [
+          {
+            "name": "Sup Kohlrabi"
+          },
+          {
+            "name": "Paket rosemary"
+          },
+          {
+            "name": "Tumis leek"
+          },
+          {
+            "name": "Kari terong"
+          },
+          {
+            "name": "roket penne"
+          },
+          {
+            "name": "Sosis squash dan mint"
+          },
+          {
+            "name": "Salad lengkeng"
+          }
+        ],
+        "drinks": [
+          {
+            "name": "Es kopi"
+          },
+          {
+            "name": "Air"
+          },
+          {
+            "name": "Jus apel"
+          },
+          {
+            "name": "Kopi espresso"
+          },
+          {
+            "name": "Teh manis"
+          },
+          {
+            "name": "Jus jeruk"
+          },
+          {
+            "name": "Es teh"
+          },
+          {
+            "name": "Coklat panas"
+          },
+          {
+            "name": "Jus mangga"
+          },
+          {
+            "name": "Es krim"
+          },
+          {
+            "name": "Jus alpukat"
+          },
+          {
+            "name": "Sirup"
+          },
+          {
+            "name": "Minuman soda"
+          }
+        ]
+      }
+    },
+    {
+      "id": "6u9lf7okjh9kfw1e867",
+      "name": "Ampiran Kota",
+      "description": "Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc,",
+      "pictureId": "https://restaurant-api.dicoding.dev/images/medium/35",
+      "city": "Balikpapan",
+      "rating": 4.1,
+      "menus": {
+        "foods": [
+          {
+            "name": "Sup Kohlrabi"
+          },
+          {
+            "name": "Toastie salmon"
+          },
+          {
+            "name": "Tumis leek"
+          },
+          {
+            "name": "Ikan teri dan roti"
+          },
+          {
+            "name": "Kari kacang dan telur"
+          }
+        ],
+        "drinks": [
+          {
+            "name": "Jus alpukat"
+          },
+          {
+            "name": "Jus jeruk"
+          },
+          {
+            "name": "Coklat panas"
+          },
+          {
+            "name": "Es teh"
+          },
+          {
+            "name": "Teh manis"
+          },
+          {
+            "name": "Es krim"
+          },
+          {
+            "name": "Jus mangga"
+          }
+        ]
+      }
+    },
+    {
+      "id": "zvf11c0sukfw1e867",
+      "name": "Gigitan Cepat",
+      "description": "Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc,",
+      "pictureId": "https://restaurant-api.dicoding.dev/images/medium/38",
+      "city": "Bali",
+      "rating": 4,
+      "menus": {
+        "foods": [
+          {
+            "name": "Tumis leek"
+          },
+          {
+            "name": "Paket rosemary"
+          },
+          {
+            "name": "roket penne"
+          },
+          {
+            "name": "Daging Sapi"
+          },
+          {
+            "name": "Napolitana"
+          },
+          {
+            "name": "Salad lengkeng"
+          },
+          {
+            "name": "Matzo farfel"
+          },
+          {
+            "name": "Kari kacang dan telur"
+          },
+          {
+            "name": "Sosis squash dan mint"
+          },
+          {
+            "name": "Kari terong"
+          }
+        ],
+        "drinks": [
+          {
+            "name": "Jus apel"
+          },
+          {
+            "name": "Air"
+          },
+          {
+            "name": "Teh manis"
+          },
+          {
+            "name": "Jus mangga"
+          },
+          {
+            "name": "Es teh"
+          },
+          {
+            "name": "Jus alpukat"
+          },
+          {
+            "name": "Jus tomat"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ughslf146iqkfw1e867",
+      "name": "Tempat Siang Hari",
+      "description": "But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure.",
+      "pictureId": "https://restaurant-api.dicoding.dev/images/medium/10",
+      "city": "Surabaya",
+      "rating": 4.4,
+      "menus": {
+        "foods": [
+          {
+            "name": "Matzo farfel"
+          },
+          {
+            "name": "Tumis leek"
+          },
+          {
+            "name": "Daging Sapi"
+          },
+          {
+            "name": "Napolitana"
+          },
+          {
+            "name": "Kari kacang dan telur"
+          },
+          {
+            "name": "Kari terong"
+          },
+          {
+            "name": "Ikan teri dan roti"
+          },
+          {
+            "name": "Bebek crepes"
+          },
+          {
+            "name": "roket penne"
+          },
+          {
+            "name": "Salad lengkeng"
+          },
+          {
+            "name": "Paket rosemary"
+          },
+          {
+            "name": "Salad yuzu"
+          }
+        ],
+        "drinks": [
+          {
+            "name": "Coklat panas"
+          },
+          {
+            "name": "Jus apel"
+          },
+          {
+            "name": "Sirup"
+          },
+          {
+            "name": "Kopi espresso"
+          },
+          {
+            "name": "Teh manis"
+          },
+          {
+            "name": "Es teh"
+          },
+          {
+            "name": "Es kopi"
+          },
+          {
+            "name": "Jus jeruk"
+          },
+          {
+            "name": "Air"
+          },
+          {
+            "name": "Jus mangga"
+          },
+          {
+            "name": "Jus tomat"
+          },
+          {
+            "name": "Minuman soda"
+          },
+          {
+            "name": "Es krim"
+          }
+        ]
+      }
+    }
+  ]
+}
